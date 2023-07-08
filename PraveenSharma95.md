@@ -1,4 +1,4 @@
-@@ -1,35 +1,35 @@
+
 [![MasterHead](https://www.omadahealth.com/hubfs/QuantifyingBehavior_Header_Animate_080818-1.gif)](https://PS.io)
 <h1 align="center">Hey Folks ! 👋 I'm Praveen Sharma</h1>
 <h3 align="center">A Data-Driven, Dynamic & self-motivated professional with demonstrated history of working in sales and operations with the Ed-tech & Fin-tech industry. Skilled in client handling, demonstrating exceptional strategic planning skills, people management, and leadership with profound technical knowledge of data visualization tools like Power-BI, MS-Excel, query language - MySQL and Python for Data-Analysis..</h3>
